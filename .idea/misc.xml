@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/malha/Documents/AndroidStudioProjects/SocialPostApp/app/src/main/res/drawable/button_background.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/malha/Documents/AndroidStudioProjects/SocialPostApp/app/src/main/res/drawable/edittext_round_shape.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/malha/Documents/AndroidStudioProjects/SocialPostApp/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/malha/Documents/AndroidStudioProjects/SocialPostApp/app/src/main/res/drawable/ic_signout.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/malha/Documents/AndroidStudioProjects/SocialPostApp/app/src/main/res/layout/activity_create_poast.xml" value="0.3194444444444444" />
+        <entry key="..\:/Users/malha/Documents/AndroidStudioProjects/SocialPostApp/app/src/main/res/layout/activity_main.xml" value="0.18888888888888888" />
+        <entry key="..\:/Users/malha/Documents/AndroidStudioProjects/SocialPostApp/app/src/main/res/layout/activity_signin.xml" value="0.22870370370370371" />
+        <entry key="..\:/Users/malha/Documents/AndroidStudioProjects/SocialPostApp/app/src/main/res/layout/item_post.xml" value="0.19444444444444445" />
+        <entry key="..\:/Users/malha/Documents/AndroidStudioProjects/SocialPostApp/app/src/main/res/layout/signout_layout.xml" value="0.3336683417085427" />
+        <entry key="..\:/Users/malha/Documents/AndroidStudioProjects/SocialPostApp/app/src/main/res/menu/nav_menu.xml" value="0.3314814814814815" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
